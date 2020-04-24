@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "Dm0LdaEUIwQOv5RtpTgOonUSXKy6Y2yo8l/Mw+cOabyqujBayHSXqWgMgE58V3CAKETx6C8sh2nMfbFPmeQCAA==",
+  "success": true,
+  "projectFilePath": "/Users/masoud/Documents/Orders/Orders.csproj",
+  "expectedPackageFiles": [
+    "/Users/masoud/.nuget/packages/csvhelper/15.0.4/csvhelper.15.0.4.nupkg.sha512",
+    "/Users/masoud/.nuget/packages/microsoft.csharp/4.5.0/microsoft.csharp.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
